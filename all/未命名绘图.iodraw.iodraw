@@ -78,7 +78,7 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-29" value="判断物体类型" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-90" y="560" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E50C2WcR1T6yaTAWJCpb-33" value="游戏结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-33" value="游戏失败" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="1129" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-36" value="金币" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
