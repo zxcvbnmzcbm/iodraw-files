@@ -10,6 +10,12 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="60" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-1" target="E50C2WcR1T6yaTAWJCpb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-1" target="E50C2WcR1T6yaTAWJCpb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-1" value="玩家移动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="210" width="100" height="50" as="geometry" />
         </mxCell>
@@ -27,6 +33,9 @@
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-9" value="前进" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="320" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-13" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="85" y="205" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
