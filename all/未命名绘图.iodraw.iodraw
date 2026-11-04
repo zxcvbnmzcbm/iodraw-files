@@ -76,7 +76,7 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-37" value="激活炸弹" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="740" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E50C2WcR1T6yaTAWJCpb-38" value="激活炸弹" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-38" value="传送门" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="740" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
