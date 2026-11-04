@@ -192,6 +192,9 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-77" value="不稳定地块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="740" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-80" target="E50C2WcR1T6yaTAWJCpb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-80" value="一段时间后当前地块变更为落水地块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="850" width="100" height="40" as="geometry" />
         </mxCell>
