@@ -132,7 +132,7 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-57" value="拾取金币" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="850" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E50C2WcR1T6yaTAWJCpb-58" value="激活炸弹" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-58" value="激活炸弹并爆炸" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-150" y="850" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
