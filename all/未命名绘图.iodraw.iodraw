@@ -159,13 +159,10 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-58" value="激活炸弹并爆炸" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-215.05" y="850" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E50C2WcR1T6yaTAWJCpb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-63" target="E50C2WcR1T6yaTAWJCpb-1">
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-66" target="E50C2WcR1T6yaTAWJCpb-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-330" y="299.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-770" y="990" />
-              <mxPoint x="-770" y="205" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-63" value="是否处于爆炸范围" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -173,9 +170,6 @@
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-58" target="E50C2WcR1T6yaTAWJCpb-63">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E50C2WcR1T6yaTAWJCpb-66" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-275.05" y="995" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-68" value="游戏失败" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-215.05" y="1141" width="100" height="39" as="geometry" />
@@ -205,6 +199,19 @@
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-80" value="一段时间后当前地块变更为落水地块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="850" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-63" target="E50C2WcR1T6yaTAWJCpb-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="205" as="targetPoint" />
+            <mxPoint x="-245" y="990" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-770" y="990" />
+              <mxPoint x="-770" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-66" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-275.05" y="960" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
