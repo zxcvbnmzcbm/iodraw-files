@@ -189,6 +189,9 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-77" value="不稳定地块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="740" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-80" value="不稳定地块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
