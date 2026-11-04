@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-3" value="金币数量更新" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-560" y="840" width="130" height="60" as="geometry" />
+          <mxGeometry x="-650" y="840" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-5" target="E50C2WcR1T6yaTAWJCpb-33">
           <mxGeometry relative="1" as="geometry" />
@@ -148,7 +148,7 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-54" value="木箱移动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-65.05" y="850" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E50C2WcR1T6yaTAWJCpb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-57">
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-57" target="E50C2WcR1T6yaTAWJCpb-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-509.99999999999983" y="870" as="targetPoint" />
           </mxGeometry>
@@ -189,7 +189,7 @@
           <mxGeometry x="-155.05" y="1025" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-77" value="不稳定地块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="740" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="740" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
