@@ -137,6 +137,11 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-52" value="玩家移动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="280" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E50C2WcR1T6yaTAWJCpb-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-54" value="木箱移动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="850" width="100" height="40" as="geometry" />
         </mxCell>
