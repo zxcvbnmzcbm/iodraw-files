@@ -162,6 +162,10 @@
         <mxCell id="E50C2WcR1T6yaTAWJCpb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E50C2WcR1T6yaTAWJCpb-63" target="E50C2WcR1T6yaTAWJCpb-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-330" y="299.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-770" y="990" />
+              <mxPoint x="-770" y="205" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E50C2WcR1T6yaTAWJCpb-63" value="是否处于爆炸范围" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
